@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanat2002&label=Profile%20views&color=0e75b6&style=flat" alt="sanat2002" /> </p>
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **Anything...**
 
 - 📫 How to reach me **sanatthakur2002@gmail.com**
 
