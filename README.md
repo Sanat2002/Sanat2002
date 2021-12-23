@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanat2002&label=Profile%20views&color=0e75b6&style=flat" alt="sanat2002" /> </p>
 
-- 🌱 I’m currently Exploring **GitHub, Frameworks...**
+- 🌱 I’m currently Exploring **GitHub, Frameworks....**
 
 - 💬 Ask me **your Doubts...**
 
